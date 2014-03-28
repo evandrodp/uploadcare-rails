@@ -17,4 +17,4 @@ end
 # To use debugger
 # gem 'debugger'
 
-gem 'uploadcare-ruby', path: "/Users/romanonthego/Code/uploadcare/uploadcare-ruby/"
+gem 'uploadcare-ruby' #, path: "/Users/romanonthego/Code/uploadcare/uploadcare-ruby/"
